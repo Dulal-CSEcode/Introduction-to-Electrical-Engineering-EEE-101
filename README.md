@@ -1,5 +1,5 @@
 <h1 align="center">--- Introduction-to-Electrical-Engineering-EEE-101 ---</h1>  
-<h3 align="center">-- Spring 2022 --</h3>  
+<h3 align="center">-- Fall 2022 --</h3>  
 <br />  
 Welcome to the Introduction to Electrical Engineering EEE-101 repository. This repository contains course materials, assignments, and resources for the Introduction to Electrical Engineering course.  
 <br />  
