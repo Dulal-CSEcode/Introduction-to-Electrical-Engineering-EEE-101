@@ -23,7 +23,7 @@ Welcome to the Introduction to Electrical Engineering EEE-101 repository. This r
 
 This course covers the fundamental concepts of electrical engineering, including basic quantities, circuit elements, Ohm's Law, Kirchhoff's Laws, circuit analysis techniques, and more. The repository provides a comprehensive guide to understanding and applying these principles through problem-solving and practical applications.
 
-Check out the playlist now and start your learning journey: [Introduction to Electrical Engineering EEE-101 Youtube Playlist Link : ](https://youtube.com/playlist?list=YourPlaylistLinkHere)
+Check out the playlist now and start your learning journey: [Introduction to Electrical Engineering EEE-101 Youtube Playlist Link : ](https://youtube.com/playlist?list=PLEc-WcPXUsjuHYFOPzV8Jcwsrvs4kamBE&si=qcZqL-PLgnxL1H7j)
 **Happy Learning!**
 
 ## Course Outline
