@@ -5,7 +5,7 @@ Welcome to the Introduction to Electrical Engineering EEE-101 repository. This r
 <br />  
 <img/>
 
-![Introduction to Electrical Engineering](electricalengineeringbanner.PNG)
+![Introduction to Electrical Engineering](eee101banner.PNG)
   
 <br />  
 
